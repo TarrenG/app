@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1cs412</string>
+    <string name="guess">Guess</string>
+    <string name="skip">Skip</string>
+    <string name="question">tap any button to start!</string>
+    <string name="points">0</string>
+</resources>
